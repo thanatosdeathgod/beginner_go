@@ -1,6 +1,6 @@
 # Beginner Go (Golang) Projects
 
-![Go Logo|234](https://miro.medium.com/v2/resize:fit:1061/1*pn-IzUxHCtYMlBlLsG3DGA.png)
+![Go Logo|100](https://miro.medium.com/v2/resize:fit:1061/1*pn-IzUxHCtYMlBlLsG3DGA.png)
 
 Welcome to my collection of beginner Go projects! This repository serves as a showcase of my learning journey with the Go programming language. Each project here represents a step in my growth as I explore the capabilities of Go.
 
