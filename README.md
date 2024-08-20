@@ -17,7 +17,7 @@ If you're interested in running any of the projects, here's how you can get star
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/repositoryname.git
+   git clone https://github.com/godofdeathanub1s/beginner_go.git
    ```
    
 2. **Navigate to the project directory:**
@@ -39,10 +39,6 @@ If you're interested in running any of the projects, here's how you can get star
 ## Contributing
 
 Feel free to fork this repository and contribute by submitting a pull request. Any contributions that improve my projects or enhance my learning are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
