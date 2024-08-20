@@ -1,22 +1,15 @@
 # Beginner Go (Golang) Projects
 
-![Go Logo](https://miro.medium.com/v2/resize:fit:1061/1*pn-IzUxHCtYMlBlLsG3DGA.png)
+![Go Logo|234](https://miro.medium.com/v2/resize:fit:1061/1*pn-IzUxHCtYMlBlLsG3DGA.png)
 
 Welcome to my collection of beginner Go projects! This repository serves as a showcase of my learning journey with the Go programming language. Each project here represents a step in my growth as I explore the capabilities of Go.
 
 ## Projects
 
-### 1. [Project Name]
+### 1. Nasty Calculator
 - **Description:** A brief description of what the project does.
 - **Features:** Key features or functionalities of the project.
 - **Usage:** Instructions on how to run the project.
-
-### 2. [Project Name]
-- **Description:** A brief description of what the project does.
-- **Features:** Key features or functionalities of the project.
-- **Usage:** Instructions on how to run the project.
-
-*(Add more projects as needed)*
 
 ## Getting Started
 
@@ -55,4 +48,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Golang Documentation](https://golang.org/doc/)
 - [Awesome Go](https://awesome-go.com/)
-- Anyone who's provided guidance and support in my learning journey.
