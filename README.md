@@ -7,9 +7,9 @@ Welcome to my collection of beginner Go projects! This repository serves as a sh
 ## Projects
 
 ### 1. Nasty Calculator
-- **Description:** A brief description of what the project does.
-- **Features:** Key features or functionalities of the project.
-- **Usage:** Instructions on how to run the project.
+- **Description:** A nasty calculator built in Golang.
+- **Features:** Just a nasty calculator who shutdowns your computer if you used it the wrong way.
+- **Usage:** go run main.go
 
 ## Getting Started
 
