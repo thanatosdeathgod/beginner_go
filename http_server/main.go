@@ -18,8 +18,11 @@ func main() {
 
 	// Create a file server
 	fs := http.FileServer(http.Dir(directory))
-	// http.FileServer = FileServer is the function to create the file server
-	// http.Dir = Dir means the function to get the directory
+	
+	/* 
+ 	   http.FileServer = FileServer is the function to create the file server
+	   http.Dir = Dir means the function to get the directory
+  	*/
 
 	// Handle all requests with the file server
 	http.Handle("/", fs)
@@ -30,6 +33,8 @@ func main() {
 	fmt.Printf("Starting server on port %s\n", port)
 	log.Fatal(http.ListenAndServe(":"+port, nil))
 
-	// http.ListenAndServer =  ListenAndServe means the function to start the server
-	// ":" means the port number, nil means the handler
+	/*
+ 	   http.ListenAndServer =  ListenAndServe means the function to start the server
+	   ":" means the port number, nil means the handler
+    	*/
 }
