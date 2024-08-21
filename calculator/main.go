@@ -56,7 +56,7 @@ func main() {
 		fmt.Println("The result of the multiplication is: ", calculator("multiplication", num1, num2))
 	case 4:
 		num1, num2 := getNumbers()
-		fmt.Println("The result of the division is: ", calculator("multiplication", num1, num2))
+		fmt.Println("The result of the division is: ", calculator("division", num1, num2))
 	case 5:
 		fmt.Println("Exiting the calculator")
 	default:
